@@ -1,2 +1,3 @@
 # Quiz-app
-Check out this Quiz app using html,css and javascript. In this app you can view all your wrong and right questions history.
+Build a Quiz App with HTML, CSS, and JavaScript to improve your Core Web Development
+In this course, we are going to use fundamental HTML, CSS, and JavaScript skills to build a quiz application.
